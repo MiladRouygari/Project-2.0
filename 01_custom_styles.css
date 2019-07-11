@@ -1,0 +1,95 @@
+/* In this file you can overwrite/extend the given babe-styles or declare your own ones */
+
+/* Example of extending a given babe-style */
+
+body{
+  -webkit-touch-callout: none; /* iOS Safari */
+    -webkit-user-select: none; /* Safari */
+     -khtml-user-select: none; /* Konqueror HTML */
+       -moz-user-select: none; /* Firefox */
+        -ms-user-select: none; /* Internet Explorer/Edge */
+            user-select: none; /* Non-prefixed version, currently
+                                  supported by Chrome and Opera */ */
+
+}
+
+.babe-view-stimulus-container {
+    height: 0;
+}
+.babe-view-title {
+    color: rgba(0, 0, 0, 0.87);
+    font-family: "Playfair Display", "Noto Serif", serif;
+    font-size: 34px;
+    text-align: center;
+    margin: 0 0 0 0;
+}
+/* Display all titles in red */
+/* .rating_choice_1_english .babe-view-title {
+  background-color: pink;
+    color: red;
+} */
+
+/* Example of declaring your own style */
+.custom-border {
+   border: 1px solid powderblue;
+}
+.progress-bar-container {
+    float: right;
+    margin: 0 10px 6px 10px;
+}
+
+.babe-response-buttons {
+
+    border: none;
+    border-radius: 2px;
+    /*color: white;
+    background-color: #5187BA;*/
+    color:black;
+    background-color: white;
+    cursor: pointer;
+    display: inline-block;
+    font-family: "Lato", "Noto Sans", sans-serif;
+    width: 200px; /*add*/
+    font-size: 12px;
+    line-height: 20px;
+    font-weight: 700;
+    letter-spacing: 0.9px;
+    margin: 0 5px 10px 5px;
+    outline: none;
+    border: 2px solid black;
+    padding: 5px 10px;
+    text-transform: uppercase;
+}
+.babe-response-buttons:hover{
+  background-color: 	#00BFFF;
+}
+
+
+.babe-view-question {
+    color: rgba(0, 0, 0, 0.87);
+    font-size: 17px;
+    line-height: 27px;
+    font-family: "Lato", "Noto Sans", sans-serif;
+    margin: 5px auto;
+    max-width: 90%;
+    text-align: center;
+}
+
+
+.babe-view-answer-container {
+    text-align: center;
+    margin: 10px 0 0 0 ;
+}
+
+.noScroll {
+    overflow: hidden;
+    position:fixed;
+}
+
+.babe-post-test-view form {
+    padding: 0;
+    max-width: 550px;
+    margin: auto;
+    margin-top: 0;
+    margin-bottom: 0;
+}
