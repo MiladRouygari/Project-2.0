@@ -8,7 +8,7 @@ in comparison to native language (i.e. German).
 
 Participants face a moral dilemma, the so called "footbridge problem". They have to make a decision whether or not to kill one man to save five others. 
 
-In addition to the original experimental setup, we included another dilemma, the "self-driving car problem" to examine moral decision making in another context.
+In addition to the original experimental setup, we included two other dilemmas, the "self-driving car problem" and the "fairyland dilemma" to examine moral decision making in other contexts.
 
 You can have a look at the [Experiment](https://miladrouygari.github.io/Project/ExperimentsFiles/index.html) here.
 
