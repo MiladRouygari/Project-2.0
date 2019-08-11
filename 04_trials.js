@@ -131,7 +131,7 @@ const trial_info = {
     ],
     forced_choice_3_german: [
       {
-          question: "Würdest du den stacheligen Troll werfen",
+          question: "Würdest du den stacheligen Troll werfen?",
           optionLeft: 'Würde ihn definitiv nicht werfen',
           v01: '1',
           v02: '2',
