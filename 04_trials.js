@@ -156,7 +156,7 @@ const trial_info = {
           v06: "Sehr klar               ",
           v07: "Absolut klares Bild     ",
           optionRight: ' ',
-          dilemma: 'car',
+          dilemma: 'fairy',
           language: 'german',
           question_kind: 'vivid_man'
       },
@@ -171,7 +171,7 @@ const trial_info = {
           v06: "Sehr klar               ",
           v07: "Absolut klares Bild     ",
           optionRight: ' ',
-          dilemma: 'car',
+          dilemma: 'fairy',
           language: 'german',
           question_kind: 'vivid_people'
       },
@@ -186,7 +186,7 @@ const trial_info = {
           v06: "Sehr klar               ",
           v07: "Absolut klares Bild     ",
           optionRight: ' ',
-          dilemma: 'car',
+          dilemma: 'fairy',
           language: 'german',
           question_kind: 'vivid_overall'
       }
