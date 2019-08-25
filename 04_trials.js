@@ -69,7 +69,7 @@ const trial_info = {
     ],
     forced_choice_2_german: [
       {
-          question: "Würdest du den Mann überfahren?",
+          question: "Würdest du die Person überfahren?",
           optionLeft: 'Würde ihn definitiv nicht überfahren',
           v01: '1',
           v02: '2',
@@ -84,7 +84,7 @@ const trial_info = {
           question_kind: 'decision'
       },
       {
-        question: "Erinnere dich an das Bild, das du im Kopf hattest, während du das Szenario gelesen hast. Bewerte, wie lebhaft du dir jeden der folgenden Teile der Szene vorgestellt hast. <br /><br /> Wie lebhaft stellst du dir <strong>den Mann</strong> vor?",
+        question: "Erinnere dich an das Bild, das du im Kopf hattest, während du das Szenario gelesen hast. Bewerte, wie lebhaft du dir jeden der folgenden Teile der Szene vorgestellt hast. <br /><br /> Wie lebhaft stellst du dir <strong>die Person/strong> vor?",
           optionLeft: '',
           v01: 'Kein Bild                 ',
           v02: 'Sehr wage & trüb           ',
