@@ -255,7 +255,7 @@ const trial_info = {
     ],
     forced_choice_2_english: [
       {
-          question: "Would you run over the man?",
+          question: "Would you run over the the person?",
           optionLeft: 'Definitely would not run over him',
           v01: '1',
           v02: '2',
@@ -270,7 +270,7 @@ const trial_info = {
           question_kind: 'decision'
       },
       {
-          question: "Remember the image you had in your mind while you read the scenario. Rate how vividly you imagined each of the following parts of the scene. <br /><br /> How vividly can you picture <strong>the man</strong>?",
+          question: "Remember the image you had in your mind while you read the scenario. Rate how vividly you imagined each of the following parts of the scene. <br /><br /> How vividly can you picture <strong>the person</strong>?",
           optionLeft: '',
           v01: 'No image',
           v02: 'Very vague & dim',
