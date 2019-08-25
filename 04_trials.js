@@ -70,7 +70,7 @@ const trial_info = {
     forced_choice_2_german: [
       {
           question: "Würdest du die Person überfahren?",
-          optionLeft: 'Würde ihn definitiv nicht überfahren',
+          optionLeft: 'Würde sie definitiv nicht überfahren',
           v01: '1',
           v02: '2',
           v03: "3",
@@ -78,7 +78,7 @@ const trial_info = {
           v05: "5",
           v06: "6",
           v07: "7",
-          optionRight: 'Würde ihn definitiv überfahren',
+          optionRight: 'Würde sie definitiv überfahren',
           dilemma: 'car',
           language: 'german',
           question_kind: 'decision'
@@ -256,7 +256,7 @@ const trial_info = {
     forced_choice_2_english: [
       {
           question: "Would you run over the the person?",
-          optionLeft: 'Definitely would not run over him',
+          optionLeft: 'Definitely would not run over the person',
           v01: '1',
           v02: '2',
           v03: "3",
@@ -264,7 +264,7 @@ const trial_info = {
           v05: "5",
           v06: "6",
           v07: "7",
-          optionRight: 'Definitely would run over him',
+          optionRight: 'Definitely would run over the person',
           dilemma: 'car',
           language: 'english',
           question_kind: 'decision'
@@ -318,7 +318,7 @@ const trial_info = {
     forced_choice_3_english: [
     {
         question: "Would you throw the troll?",
-        optionLeft: 'Definitely would not throw',
+        optionLeft: 'Definitely would not throw the troll',
         v01: '1',
         v02: '2',
         v03: "3",
@@ -326,7 +326,7 @@ const trial_info = {
         v05: "5",
         v06: "6",
         v07: "7",
-        optionRight: 'Definitely would throw',
+        optionRight: 'Definitely would throw the troll',
         dilemma: 'fairy',
         language: 'english',
         question_kind: 'decision'
