@@ -255,7 +255,7 @@ const trial_info = {
     ],
     forced_choice_2_english: [
       {
-          question: "Would you run over the the person?",
+          question: "Would you run over the person?",
           optionLeft: 'Definitely would not run over the person',
           v01: '1',
           v02: '2',
