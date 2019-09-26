@@ -66,7 +66,7 @@ views_seq =  randomiseViewSeq();
             // Possible deployment methods are:
             // "debug" and "directLink"
             // As well as "MTurk", "MTurkSandbox" and "Prolific"
-            deployMethod: "directLink",
+            deployMethod: "debug",
             contact_email: "haterborg@uni-osnabrueck.de",
             //prolificURL: "https://app.prolific.ac/submissions/complete?cc=SAMPLE1234"
         },
