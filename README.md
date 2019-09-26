@@ -10,7 +10,7 @@ Participants face a moral dilemma, the so called "footbridge problem". They have
 
 In addition to the original experimental setup, we included two other dilemmas, the "self-driving car problem" and the "fairyland dilemma" to examine moral decision making in other contexts.
 
-You can have a look at the [Experiment](https://miladrouygari.github.io/Project/ExperimentsFiles/index.html) here.
+You can have a look at the [Experiment](https://miladrouygari.github.io/Project-2.0/ExperimentsFiles/index.html) here.
 
 ## Comment: Browser-based experiments
 This experiment is based on the *_babe* architecture
